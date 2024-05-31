@@ -2,6 +2,8 @@
 
 👉I am Satya Priya Mishra,20 Year old Youngest Full Stack Web Developer and Graphic Designer.<br><br>💬 Ask me about HTML,CSS,Tailwind css,Bootstrap,JavaScript,Node.Js,express js,redux,react js, Machine learning and Python<br><br>📫 How to reach me mishrasatyapriya9@gmail.com<br><br>🔭 I am currently studying in Silicon institute of technology bhubaneswar in 3rd year<br><br>🌱 I’m currently learning Node.js(In depth)<br><br>🖥️
 
+## RESUME - https://drive.google.com/file/d/1sItObU_4tRXYdOcVItS3MgOzBxropeAZ/view?usp=sharing
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satya.priya__?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyapriya-mishra-3a95a4223) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RAAJGAM47626314)
 
